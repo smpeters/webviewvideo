@@ -1,4 +1,4 @@
-package org.collegeboard.webvideotest
+package org.fisharerojo.webvideotest
 
 import android.Manifest
 import android.content.pm.PackageManager

@@ -1,4 +1,4 @@
-package org.collegeboard.webvideotest
+package org.fisharerojo.webvideotest
 
 import org.junit.Test
 
