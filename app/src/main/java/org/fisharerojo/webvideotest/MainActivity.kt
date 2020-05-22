@@ -41,7 +41,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         setContentView(myWebView)
-        myWebView.loadUrl("https://webrtc.github.io/samples/src/content/getusermedia/gum/")
+        myWebView.loadUrl("https://webrtc.github.io/samples/src/content/devices/input-output/")
     }
 
 
